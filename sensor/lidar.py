@@ -61,11 +61,3 @@ class lidar360(object):
 		self.dright = min(right30)
 		self.dleft = min(left30)
 		
-
-
-
-
-
-
-
-
