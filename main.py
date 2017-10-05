@@ -32,7 +32,7 @@ pid = PID(stdr_range, cmd_vel_pub)
 twist = Twist() 
 rate = rospy.Rate(10)
 
- 
+
 def out():
    m = lidar360.dahead >= lidar360.range_max
    n = lidar360.dleft >= lidar360.range_max
@@ -49,18 +49,17 @@ while not rospy.is_shutdown():
 
      if out(): 
         print "maze finished"
-	print  lidar360.range_max
 	print "%s, %s, %s"%(lidar360.dahead, lidar360.dleft, lidar360.dright)
         twist.linear.x = 0.
         twist.angular.z = 0.
 
-     elif (lidar360.dahead < 2.):   # never hit wall. bounce back when necessary
+     elif (lidar360.dahead < 1.5):   # never hit wall. bounce back when necessary
         twist.linear.x = -1.5
 
      elif (i == 1):    		  #open left, turn left
            print "turn L: %s, %s, %s"%(lidar360.dahead, lidar360.dleft, lidar360.dright)
-           twist.linear.x= 0.75
-           twist.angular.z = 0.2
+           twist.linear.x= 0.45
+           twist.angular.z = 0.4
            pid.reset()
 
      elif (i == 0):      # otherwise, go forward 
@@ -71,8 +70,8 @@ while not rospy.is_shutdown():
 
      elif (i == 2):   	  # otherwise, turn right if open
            print "turn R: %s, %s, %s"%(lidar360.dahead, lidar360.dleft, lidar360.dright)
-           twist.linear.x= 0.75
-           twist.angular.z = -0.2
+           twist.linear.x= 0.45
+           twist.angular.z = -0.4
            pid.reset()
 
      #start_t = time.time()
@@ -82,24 +81,3 @@ while not rospy.is_shutdown():
 
 
       
-    
-
-
-
-
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
