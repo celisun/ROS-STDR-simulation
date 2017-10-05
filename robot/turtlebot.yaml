@@ -26,3 +26,48 @@ robot:
             noise_specifications:
               noise_mean: 0.001
               noise_std: 0.00001
+    - sonar:
+        sonar_specifications:
+          max_range: 5
+          min_range: 0.100000001490116
+          cone_angle: 0.52359877
+          noise:
+            noise_specifications:
+              noise_mean: 0
+              noise_std: 0
+          frequency: 10
+          frame_id: sonar_1
+          pose:
+            x: 0
+            y: 0
+            theta: 0
+    - sonar:
+        sonar_specifications:
+          max_range: 5
+          min_range: 0.100000001490116
+          cone_angle: 0.34906585
+          noise:
+            noise_specifications:
+              noise_mean: 0
+              noise_std: 0
+          frequency: 10
+          frame_id: sonar_2
+          pose:
+            x: 0
+            y: 0
+            theta: 1.57079632
+    - sonar:
+        sonar_specifications:
+          max_range: 5
+          min_range: 0.100000001490116
+          cone_angle: 0.34906585
+          noise:
+            noise_specifications:
+              noise_mean: 0
+              noise_std: 0
+          frequency: 10
+          frame_id: sonar_3
+          pose:
+            x: 0
+            y: 0
+            theta: 4.71239
