@@ -41,7 +41,7 @@ http://campusrover.org.s3-website-us-west-2.amazonaws.com/content/topics/robotre
 
 ## Dependencies
 
-* ros
+* ros kinetics
 * stdr
 * python
 * numpy
