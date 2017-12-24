@@ -37,3 +37,10 @@ http://campusrover.org.s3-website-us-west-2.amazonaws.com/content/topics/robotre
 1. now you can put **your_own.png** and **your_own.yaml** in the folder **/opt/ros/kinetic/share/stdr_resources/maps**.
 
 1. Finally, register the map, run `roscd stdr_resources` , then `rosservice call /stdr_server/load_static_map "mapFile: '$PWD/maps/<your_own.yaml>'"`.
+
+## Dependencies
+
+* ros
+* stdr
+* python
+* numpy
