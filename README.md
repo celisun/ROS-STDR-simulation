@@ -1,9 +1,9 @@
 # STDR-simulation
 stdr robot simulation under ROS enviornment. Maze solving, navigation, multiple tasks.
 
-Sample project（ROS Maze without SLAM): http://campusrover.org.s3-website-us-west-2.amazonaws.com/content/topics/robotprojects/04_ROS_Maze.md/
-
 <img src="https://github.com/celisun/STDR-simulation/blob/master/stdr-turtlebota.png" width="600">
+
+Sample project using stdr（ROS Maze without SLAM): http://campusrover.org.s3-website-us-west-2.amazonaws.com/content/topics/robotprojects/04_ROS_Maze.md/
 
 ## How to use STDR 
 ### cheat sheet
