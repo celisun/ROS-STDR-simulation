@@ -1,5 +1,6 @@
 # STDR Simulation
-STDR robot simulation under ROS enviornment. Can be used for maze solving, navigation, multiple tasks.
+STDR(2D multi-robot simulator) robot simulation under ROS enviornment. maze solving, navigation, multiple tasks.
+Official wiki: http://wiki.ros.org/stdr_simulator
 
 A sample project using stdr（ROS Maze without SLAM): http://campusrover.org.s3-website-us-west-2.amazonaws.com/content/topics/robotprojects/04_ROS_Maze.md/
 
