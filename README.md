@@ -5,7 +5,8 @@ Sample project（ROS Maze without SLAM): http://campusrover.org.s3-website-us-we
 
 <img src="https://github.com/celisun/STDR-simulation/blob/master/stdr-turtlebota.png" width="600">
 
-### How to use STDR -  cheat sheet
+## How to use STDR 
+### cheat sheet
 1. open ROS server `roscore`
 
 1. open STDR server `source /opt/ros/kinetic/setup.bash`,
