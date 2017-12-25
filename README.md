@@ -6,9 +6,14 @@ A sample project using stdr（ROS Maze without SLAM): http://campusrover.org.s3-
 
 <img src="https://github.com/celisun/STDR-simulation/blob/master/stdr-turtlebota.png" width="600">
 
+## Dependencies
 
+* ros kinetics
+* stdr
+* python
+* numpy
 
-## How to use STDR 
+## *How to use STDR 
 http://campusrover.org.s3-website-us-west-2.amazonaws.com/content/topics/robotrecipes/stdr_guide.md/
 ### cheat sheet
 1. open ROS server `roscore`
@@ -39,9 +44,4 @@ http://campusrover.org.s3-website-us-west-2.amazonaws.com/content/topics/robotre
 
 1. Finally, register the map, run `roscd stdr_resources` , then `rosservice call /stdr_server/load_static_map "mapFile: '$PWD/maps/<your_own.yaml>'"`.
 
-## Dependencies
 
-* ros kinetics
-* stdr
-* python
-* numpy
