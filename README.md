@@ -1,4 +1,4 @@
-# STDR Simulation
+# ROS STDR Simulation
 STDR(2D multi-robot simulator) robot simulation under ROS enviornment. maze solving, navigation, multiple tasks.
 
 STDR wiki: http://wiki.ros.org/stdr_simulator
