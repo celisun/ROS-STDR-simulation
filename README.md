@@ -16,9 +16,9 @@ A sample project we developed with std: *ROS Maze Solving* http://campusrover.or
 
 
 
-## How to use STDR 
+## Cheat Sheet
 http://campusrover.org.s3-website-us-west-2.amazonaws.com/content/topics/robotrecipes/stdr_guide.md/
-### cheat sheet
+### basic workflow
 1. open ROS server `roscore`
 
 1. open STDR server `source /opt/ros/kinetic/setup.bash`,
