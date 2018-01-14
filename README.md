@@ -13,7 +13,10 @@ A sample project we developed with std: *ROS Maze Solving* http://campusrover.or
 * python
 * numpy
 
-## *How to use STDR 
+
+
+
+## How to use STDR 
 http://campusrover.org.s3-website-us-west-2.amazonaws.com/content/topics/robotrecipes/stdr_guide.md/
 ### cheat sheet
 1. open ROS server `roscore`
@@ -31,7 +34,7 @@ http://campusrover.org.s3-website-us-west-2.amazonaws.com/content/topics/robotre
 1. compile and run your script.`chmod +x rosmaze <your_own_script.py>`, then run `rosrun <workspace name> <your_own_script.py>`  *we recommand you put your own scripts in catkin_ws/src/stdr_simulator/stdr_samples.
 
 
-### How to register external map
+### how to register external map
 1. download/draw/get an image in **.png** format. *[online-format-converter](https://www.online-convert.com/)
 
 1. put **your_own.png** in folder **catkin_ws/src/stdr_simulator/stdr_resources/maps**.
