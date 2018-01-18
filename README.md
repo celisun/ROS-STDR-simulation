@@ -24,7 +24,7 @@ Autonomous Robotics Lab
 
 
 ## Cheat Sheet
-http://campusrover.org.s3-website-us-west-2.amazonaws.com/content/topics/robotrecipes/stdr_guide.md/
+
 ### basic workflow
 1. open ROS server `roscore`
 
