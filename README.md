@@ -29,7 +29,7 @@ http://campusrover.org.s3-website-us-west-2.amazonaws.com/content/topics/robotre
 1. open ROS server `roscore`
 
 1. open STDR server `source /opt/ros/kinetic/setup.bash`,
-   - with a default map  `roslaunch stdr_launchers server_with_map_and_gui_plus_robot.launch`
+   - with a default map  `roslaunch stdr_launchers server_with_map_and_gui_plus_robot.launch`,
    - with no map `roslaunch stdr_launchers server_no_map.launch`, and then **open your own map** (also see: [How to load a map](http://wiki.ros.org/stdr_simulator/Tutorials/How%20to%20load%20a%20map)), now option 1 : `rosrun stdr_server stdr_server_node maps/<your_own_maze.yaml>`, or option 2 : `roscd stdr_resources` ---> `rosrun stdr_server load_map maps/<your_own_maze.yaml>`
 
 1. open GUI visualizer. `roslaunch stdr_gui stdr_gui.launch`
