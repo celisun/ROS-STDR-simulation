@@ -3,7 +3,7 @@ STDR(2D multi-robot simulator) robot simulation under ROS enviornment, for maze 
 
 Autonomous Robotics Lab
 
-@ Celi Sun @ Nov, 2017 @ Brandeis University 
+@ Celi Sun @ Nov, 2017 @ Brandeis University
 
 
 #### official STDR wiki: http://wiki.ros.org/stdr_simulator
