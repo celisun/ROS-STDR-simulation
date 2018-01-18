@@ -9,8 +9,10 @@ Autonomous Robotics Lab
 
 Check STDR wiki official: http://wiki.ros.org/stdr_simulator
 
-<img src="https://github.com/celisun/STDR-simulation/blob/master/stdr-turtlebota.png" width="600">
 A sample project we developed ROS Maze Solving at http://campusrover.org.s3-website-us-west-2.amazonaws.com/content/topics/robotprojects/04_ROS_Maze.md/
+
+<img src="https://github.com/celisun/STDR-simulation/blob/master/stdr-turtlebota.png" width="600">
+
 
 ## Dependencies
 
