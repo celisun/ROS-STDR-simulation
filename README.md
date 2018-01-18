@@ -1,10 +1,16 @@
 # ROS STDR Simulation
-STDR(2D multi-robot simulator) robot simulation under ROS enviornment. maze solving, navigation, multiple tasks.
+STDR(2D multi-robot simulator) robot simulation under ROS enviornment, for maze solving, navigation, multiple tasks.
 
-STDR wiki: http://wiki.ros.org/stdr_simulator
+Autonomous Robotics Lab
+
+@ Celi Sun @ Nov, 2017 @ Brandeis University 
+
+
+
+Check STDR wiki official: http://wiki.ros.org/stdr_simulator
 
 <img src="https://github.com/celisun/STDR-simulation/blob/master/stdr-turtlebota.png" width="600">
-A sample project we developed with std: *ROS Maze Solving* http://campusrover.org.s3-website-us-west-2.amazonaws.com/content/topics/robotprojects/04_ROS_Maze.md/
+A sample project we developed ROS Maze Solving at http://campusrover.org.s3-website-us-west-2.amazonaws.com/content/topics/robotprojects/04_ROS_Maze.md/
 
 ## Dependencies
 
