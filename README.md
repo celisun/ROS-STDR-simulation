@@ -22,7 +22,7 @@ Autonomous Robotics Lab
 
 
 
-#### Cheat Sheet
+### Cheat Sheet
 
 #### basic workflow
 1. open ROS server `roscore`
