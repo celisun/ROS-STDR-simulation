@@ -1,6 +1,7 @@
 # ROS STDR Simulation
 **[STDR](http://wiki.ros.org/stdr_simulator)** (2D multi-robot simulator) robot simulation under ROS enviornment, for maze solving, navigation, multiple tasks.
 
+<img src="https://raw.githubusercontent.com/celisun/ROS-STDR-simulation/master/src/tb3-LABEL.png" width="150"> <img src="https://raw.githubusercontent.com/celisun/ROS-STDR-simulation/master/src/stdr-LABEL.png" width="150"> 
 ##
 **[Autonomous Robotics Lab](http://campusrover.org.s3-website-us-west-2.amazonaws.com)** 
 
@@ -10,7 +11,7 @@
 
 <img src="https://raw.githubusercontent.com/celisun/ROS-STDR-simulation/master/src/Stdr-with-turtle.png" width="500">
  
-<img src="https://raw.githubusercontent.com/celisun/ROS-STDR-simulation/master/src/stdr-LABEL.png" width="200"> <img src="https://raw.githubusercontent.com/celisun/ROS-STDR-simulation/master/src/tb3-LABEL.png" width="190"> 
+
 
 ## Dependencies
 
