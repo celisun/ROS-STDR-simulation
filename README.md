@@ -1,11 +1,13 @@
 # ROS STDR Simulation
+**[Autonomous Robotics Lab](http://campusrover.org.s3-website-us-west-2.amazonaws.com)**
+
+@ Celi Sun @ Nov, 2017 @ Brandeis University
+
 STDR(2D multi-robot simulator) robot simulation under ROS enviornment, for maze solving, navigation, multiple tasks.
 #### STDR official wiki: http://wiki.ros.org/stdr_simulator
 ##
 
-**[Autonomous Robotics Lab](http://campusrover.org.s3-website-us-west-2.amazonaws.com)**
 
-@ Celi Sun @ Nov, 2017 @ Brandeis University
 
 **One sample project we developed** *[ROS Maze Solving](http://campusrover.org.s3-website-us-west-2.amazonaws.com/content/topics/robotprojects/04_ROS_Maze.md/)*
 
