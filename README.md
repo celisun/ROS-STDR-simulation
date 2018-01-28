@@ -17,8 +17,8 @@
 
 ## Dependencies
 
-* ros kinetics
-* stdr
+* [ros kinetics](http://wiki.ros.org/ROS/Installation)
+* [stdr](http://wiki.ros.org/stdr_simulator/Tutorials/Set%20up%20STDR%20Simulator)
 * python
 * numpy
 
