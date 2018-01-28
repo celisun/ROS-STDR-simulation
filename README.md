@@ -11,7 +11,7 @@
 **One sample project we developed** *[ROS Maze Solving](http://campusrover.org.s3-website-us-west-2.amazonaws.com/content/topics/robotprojects/04_ROS_Maze.md/)*
 
 <img src="https://raw.githubusercontent.com/celisun/ROS-STDR-simulation/master/src/Stdr-with-turtle.png" width="500">
-<img src="https://raw.githubusercontent.com/celisun/ROS-STDR-simulation/master/src/Turtle-sketch.png" width="500">
+
 
 ## Dependencies
 
