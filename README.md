@@ -5,7 +5,7 @@
 
 <img src="https://raw.githubusercontent.com/celisun/ROS-STDR-simulation/master/src/tb3-LABEL.png" width="120"> <img src="https://raw.githubusercontent.com/celisun/ROS-STDR-simulation/master/src/stdr-LABEL.png" width="150"> 
 ##
-**[Autonomous Robotics Lab](http://campusrover.org.s3-website-us-west-2.amazonaws.com)** 
+**[Autonomous Robotics Lab at Brandeis](http://campusrover.org.s3-website-us-west-2.amazonaws.com)** 
 
 @ Celi Sun  @ Nov, 2017  @ Brandeis University  
 
